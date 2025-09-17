@@ -361,7 +361,7 @@ form .btn2{
 nav .fa-solid{
     display: none;
 }
-@media only screen and (max-width: 900px){
+@media only screen and (max-width: 600px){
     #header{
         background-size: 120%;
         background-position: center;
@@ -426,4 +426,5 @@ nav .fa-solid{
     color: rgb(11, 136, 28);
     margin-top: -10px;
     display: block;
+
 }
