@@ -415,8 +415,8 @@ nav .fa-solid{
     .about-col-1 img{
         width: 100%;
     }
-    .about-col-2{
-        margin: 20%;
+    .about-col-2 p{
+        padding: 20%;
     }
     .contact-left, .contact-right{
         flex-basis: 100%;
@@ -431,6 +431,7 @@ nav .fa-solid{
     display: block;
 
 }
+
 
 
 
