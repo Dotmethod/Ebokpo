@@ -363,7 +363,7 @@ nav .fa-solid{
 }
 @media only screen and (max-width: 700px){
     #header{
-        background-size: 120%;
+        background-size: 140%;
         background-position: center;
     }
     .header-text{
@@ -415,6 +415,9 @@ nav .fa-solid{
     .about-col-1 img{
         width: 100%;
     }
+    .about-col-2{
+        padding: 25px;
+    }
     .contact-left, .contact-right{
         flex-basis: 100%;
     }
@@ -434,5 +437,6 @@ nav .fa-solid{
     display: block;
 
 }
+
 
 
