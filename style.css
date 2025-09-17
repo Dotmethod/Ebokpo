@@ -403,7 +403,8 @@ nav .fa-solid{
         cursor: pointer;
     }
     .row{
-    justify-content: center;
+        padding: 20px;
+        justify-content: center;
     }
     .sub-title{
         font-size: 40px;
@@ -428,6 +429,7 @@ nav .fa-solid{
     display: block;
 
 }
+
 
 
 
