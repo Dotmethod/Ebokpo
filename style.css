@@ -403,7 +403,7 @@ nav .fa-solid{
         cursor: pointer;
     }
     .row{
-        padding: 10px 10%;
+        padding: 10px;
         justify-content: center;
         align-item: center;
     }
@@ -433,6 +433,7 @@ nav .fa-solid{
     display: block;
 
 }
+
 
 
 
