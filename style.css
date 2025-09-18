@@ -417,10 +417,10 @@ nav .fa-solid{
         width: 100%;
     }
     .tab-titles p{
-        text-align: center;
+        padding: 20px;
     }
-    .tab-content active-tab ul li{
-        text-align: center;
+    .tab-content active-tab ul{
+        padding: 20px;
     }
     .contact-left, .contact-right{
         flex-basis: 100%;
@@ -435,6 +435,7 @@ nav .fa-solid{
     display: block;
 
 }
+
 
 
 
