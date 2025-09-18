@@ -402,10 +402,10 @@ nav .fa-solid{
         padding-bottom: 20px;
         cursor: pointer;
     }
-    /*.row{
+    .row{
         padding: 20px;
         justify-content: center;
-    }*/
+    }
     .sub-title{
         font-size: 40px;
         text-align: center;
@@ -429,6 +429,7 @@ nav .fa-solid{
     display: block;
 
 }
+
 
 
 
