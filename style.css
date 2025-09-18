@@ -404,7 +404,6 @@ nav .fa-solid{
     }
     .row{
         padding: 10px;
-        justify-content: center;
     }
     .sub-title{
         font-size: 40px;
@@ -416,8 +415,14 @@ nav .fa-solid{
     .about-col-1 img{
         width: 100%;
     }
+    .about-col-2.sub-title p{
+         justify-content: center;
+    }
     .contact-left, .contact-right{
         flex-basis: 100%;
+    }
+    .tab-titles{
+        text-align: center;
     }
     .copywrite{
         font-size: 10px;
@@ -429,6 +434,7 @@ nav .fa-solid{
     display: block;
 
 }
+
 
 
 
