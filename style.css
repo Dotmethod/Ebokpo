@@ -426,7 +426,7 @@ nav .fa-solid{
         flex-basis: 100%;
     }
     .copywrite{
-        font-size: 14px;
+        font-size: 10px;
     }
 }
 #msg{
@@ -435,6 +435,7 @@ nav .fa-solid{
     display: block;
 
 }
+
 
 
 
