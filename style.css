@@ -416,12 +416,6 @@ nav .fa-solid{
     .about-col-1 img{
         width: 100%;
     }
-    .tab-titles p{
-        padding: 20px;
-    }
-    .tab-content active-tab ul{
-        padding: 20px;
-    }
     .contact-left, .contact-right{
         flex-basis: 100%;
     }
@@ -435,6 +429,7 @@ nav .fa-solid{
     display: block;
 
 }
+
 
 
 
