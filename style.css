@@ -402,10 +402,10 @@ nav .fa-solid{
         padding-bottom: 20px;
         cursor: pointer;
     }
-    .row{
+    /*.row{
         padding: 20px;
         justify-content: center;
-    }
+    }*/
     .sub-title{
         font-size: 40px;
         text-align: center;
@@ -415,6 +415,15 @@ nav .fa-solid{
     }
     .about-col-1 img{
         width: 100%;
+    }
+    .about-col-2 p{
+        text-align: center;
+    }
+    .tab-titles p{
+        text-align: center;
+    }
+    .tab-content active-tab ul li{
+        text-align: center;
     }
     .contact-left, .contact-right{
         flex-basis: 100%;
@@ -429,6 +438,7 @@ nav .fa-solid{
     display: block;
 
 }
+
 
 
 
