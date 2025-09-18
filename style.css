@@ -403,7 +403,7 @@ nav .fa-solid{
         cursor: pointer;
     }
     .row{
-        padding: 20px;
+        padding: 10px;
         justify-content: center;
     }
     .sub-title{
@@ -429,6 +429,7 @@ nav .fa-solid{
     display: block;
 
 }
+
 
 
 
